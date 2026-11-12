@@ -1,0 +1,150 @@
+body {
+    background-image: url("images/wooddesk.png");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-color: #1a1a1a; 
+}
+.notebook {
+    width: min(90vw, 1100px);
+    aspect-ratio: 662 / 451;
+    background: url("images/openbook.png") center / 100% 100% no-repeat;
+    display: flex;
+    box-sizing: border-box;          
+    padding: 1.6% 4.6% 1.9% 1.6%;   
+    gap: 0;
+}
+.page1, .page2 {
+    flex: 1;
+    position: relative;
+}
+.yellowflow{
+    position: absolute;
+    left: 1%;
+    top: 0%;
+    width: 48%;
+    height: 58%;
+    z-index: 1;
+    background-image: url("images/yellowflow.png");
+    background-position: center;
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+}
+.floweroutline{
+    position: absolute;
+    left: 65.5%;
+    top: 40.5%;
+    width: 31%;
+    height: 23%;
+    z-index: 1;
+    background-image: url("images/floweroutline.png");
+    background-position: center;
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+}
+.butterfly{
+    position: absolute;
+    left: 82%;
+    top: 3%;
+    width: 23%;
+    height: 20%;
+    z-index: 1;
+    background-image: url("images/butterfly.png");
+    background-position: center;
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+}
+.note-box{
+    position: absolute;
+    left: 6%;
+    top: 65%;
+    width: 89%;
+    height: 28%;
+    background-image: url("images/rectangle.png");
+    background-position: center;
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    z-index:2;
+}
+.polaroid1{
+    position: absolute;
+    left: 7.5%;
+    top: 24%;
+    width: 38%;
+    height: 33.5%;
+    z-index: 2;
+    background-image: url("images/smallpic.png");
+    background-position: center;
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+
+}
+.polaroid2{
+    position: absolute;
+    left: 52%;
+    top: 9.5%;
+    width: 38%;
+    height: 33.5%;
+    z-index: 2;
+    background-image: url("images/smallpic.png");
+    background-position: center;
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+
+}
+
+.polaroid_large{
+    position: absolute;
+    left: 13%;
+    top: 6%;
+    width: 56%;
+    height: 49.5%;
+    background-image: url("images/bigPic.png");
+    background-position: center;
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+}
+.stamps{
+    position: absolute;
+    left: 73.5%;
+    top: 10.5%;
+    width: 23.5%;
+    height: 34.5%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;   
+    z-index: 2;
+    
+
+}
+.stamp{
+    width: 100%;
+    height: 48%;                      
+    background-image: url("images/Postage stamp.png");
+    background-position: center;
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+}
+.linex{
+    position: absolute;
+    left: 15.5%;
+    top: 62%;
+    width: 78%;
+    height: 3.5%;
+    background-image: url("images/linex.png");
+    background-position: center;
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+}
+.peony{
+    position: absolute;
+    left: 26.5%;
+    top: 72%;
+    width: 50%;
+    height: 21.5%;
+    background-image: url("images/peony.png");
+    background-position: center;
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+}
