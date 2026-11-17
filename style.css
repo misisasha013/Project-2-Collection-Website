@@ -74,7 +74,7 @@ body {
     width: 38%;
     height: 33.5%;
     z-index: 2;
-    background-image: url("images/smallpic.png");
+    background-image: url("images/Group14.png");
     background-position: center;
     background-size: 100% 100%;
     background-repeat: no-repeat;
@@ -87,20 +87,130 @@ body {
     width: 38%;
     height: 33.5%;
     z-index: 2;
-    background-image: url("images/smallpic.png");
+    background-image: url("images/Group13.png");
     background-position: center;
     background-size: 100% 100%;
     background-repeat: no-repeat;
 
 }
+.polaroid3{
+    position: absolute;
+    left: 7.5%;
+    top: 24%;
+    width: 38%;
+    height: 33.5%;
+    z-index: 2;
+    background-image: url("images/Group11.png");
+    background-position: center;
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
 
-.polaroid_large{
+}
+.polaroid4{
+    position: absolute;
+    left: 52%;
+    top: 9.5%;
+    width: 38%;
+    height: 33.5%;
+    z-index: 2;
+    background-image: url("images/Group12.png");
+    background-position: center;
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+
+}
+.polaroid5{
+    position: absolute;
+    left: 7.5%;
+    top: 24%;
+    width: 38%;
+    height: 33.5%;
+    z-index: 2;
+    background-image: url("images/Group18.png");
+    background-position: center;
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+
+}
+.polaroid6{
+    position: absolute;
+    left: 52%;
+    top: 9.5%;
+    width: 38%;
+    height: 33.5%;
+    z-index: 2;
+    background-image: url("images/Group17.png");
+    background-position: center;
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+
+}
+.polaroid7{
+    position: absolute;
+    left: 7.5%;
+    top: 24%;
+    width: 38%;
+    height: 33.5%;
+    z-index: 2;
+    background-image: url("images/Group9.png");
+    background-position: center;
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+
+}
+.polaroid8{
+    position: absolute;
+    left: 52%;
+    top: 9.5%;
+    width: 38%;
+    height: 33.5%;
+    z-index: 2;
+    background-image: url("images/Group10.png");
+    background-position: center;
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+
+}
+.polaroid_large1{
     position: absolute;
     left: 13%;
     top: 6%;
     width: 56%;
     height: 49.5%;
-    background-image: url("images/bigPic.png");
+    background-image: url("images/Group5.png");
+    background-position: center;
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+}
+.polaroid_large2{
+    position: absolute;
+    left: 13%;
+    top: 6%;
+    width: 56%;
+    height: 49.5%;
+    background-image: url("images/Group6.png");
+    background-position: center;
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+}
+.polaroid_large3{
+    position: absolute;
+    left: 13%;
+    top: 6%;
+    width: 56%;
+    height: 49.5%;
+    background-image: url("images/Group7.png");
+    background-position: center;
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+}
+.polaroid_large4{
+    position: absolute;
+    left: 13%;
+    top: 6%;
+    width: 56%;
+    height: 49.5%;
+    background-image: url("images/Group8.png");
     background-position: center;
     background-size: 100% 100%;
     background-repeat: no-repeat;
